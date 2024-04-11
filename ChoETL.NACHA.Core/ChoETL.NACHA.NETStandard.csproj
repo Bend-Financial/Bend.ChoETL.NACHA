@@ -3,9 +3,9 @@
   <PropertyGroup>
 
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <Version>1.0.2.4</Version>
+    <Version>1.0.2.7</Version>
 
-    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Bend</Authors>
     <Description>Bend fork of NACHA Library for .NET</Description>
 	<PackageId>Bend.ChoETL.NACHA.NETStandard</PackageId>
